@@ -1,5 +1,5 @@
 {
   "version": "1.1.1",
   "url": "https://github.com/brisou932/opticam/releases/latest/download/OptiCam-Setup.exe",
-  "notes": "Ameliorations : champ de vision elargi comme l appareil photo natif (fini le zoom), image plus nette, detection de mouvement plus fluide (pas de saccade en parlant), mode veille ecran noir plus econome, et correction du bouton + des outils rapides."
+  "notes": "Image plus nette, angle elargi et meilleure fluidite, plus quelques corrections."
 }
