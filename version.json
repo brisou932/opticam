@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
+  "version": "1.1.1",
   "url": "https://github.com/brisou932/opticam/releases/latest/download/OptiCam-Setup.exe",
-  "notes": "Nouveautes : mode anti-surchauffe du telephone (envoi seulement quand ca bouge + limite 24 img/s + bouton ecran noir), verification des mises a jour en continu, et diverses ameliorations."
+  "notes": "Ameliorations : champ de vision elargi comme l appareil photo natif (fini le zoom), image plus nette, detection de mouvement plus fluide (pas de saccade en parlant), mode veille ecran noir plus econome, et correction du bouton + des outils rapides."
 }
